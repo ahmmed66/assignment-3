@@ -1,3 +1,5 @@
-.gradien {
-    background: linear-gradient(to bottom, transparent, black);
+@media only screen and (max-width: 868px) {
+    .tab-mobile {
+        display: none;
+    }
 }
