@@ -3,3 +3,7 @@
         display: none;
     }
 }
+
+.img-filter {
+    filter: brightness(50%);
+}
